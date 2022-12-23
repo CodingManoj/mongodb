@@ -52,3 +52,9 @@ Download the schema and load it.
 ```
 
  Symbol `<` will take the input from a file and give that input to the command.
+
+
+
+PS :
+```
+Schemd is capable of working with AWS Managed Document DB as well as per the coding changes on 
